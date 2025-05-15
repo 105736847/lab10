@@ -4,7 +4,7 @@
   <title>Change Email</title>
 </head>
 <body>
-  <form method="post" action="update_profile1.php">
+  <form method="post" action="update_profile_proccess.php">
     <label>New Email</label>
     <input type="text" name="new_email" required>
     <input type="submit" value = "change">
